@@ -20,7 +20,7 @@ Sou estudante **Análise e Desenvolvimento de Sistemas** e tenho focado em **Nex
 
 ---
 
-### 💻 Stack Principal
+### 💻 Stack Principal e ferramentas
 
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,6 +32,7 @@ Sou estudante **Análise e Desenvolvimento de Sistemas** e tenho focado em **Nex
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="C#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 ---
