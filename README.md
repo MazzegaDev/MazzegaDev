@@ -13,13 +13,6 @@ Sou estudante **Análise e Desenvolvimento de Sistemas** e tenho focado em **Nex
 
 ---
 
-### ⚙️ Estatísticas do GitHub
-
-
-  ![Mazzega's GitHub stats](https://github-readme-stats.vercel.app/api?username=MazzegaDev&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MazzegaDev&layout=compact&theme=tokyonight)
-
----
 
 ### 💻 Stack Principal e ferramentas
 
