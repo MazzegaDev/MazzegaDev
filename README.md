@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Guilherme Mazzega 😎
 
-Sou desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções criativas.  
-Sou estudante **Análise e Desenvolvimento de Sistemas** e tenho focado em **Next.js**, **Node.js**, **Express**, **React** e **MySQL**.
+Desenvolvedor Backend e Full Stack com projetos em Node.js, Express, React, Next.js e SQL.
+Crio APIs REST completas com autenticação, deploy e documentação.
 
 
 ---
