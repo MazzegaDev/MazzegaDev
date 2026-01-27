@@ -4,7 +4,7 @@
 <div align="left">
 
 👨‍💻Desenvolvedor Backend e Full Stack com projetos em Node.js, Express, React, Next.js e SQL.
-Crio APIs REST completas com autenticação, deploy e documentação.
+Crio APIs REST completas com autenticação e documentação.
 
 </div>
 
