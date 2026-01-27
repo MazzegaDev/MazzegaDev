@@ -1,5 +1,16 @@
 ## 👋 Olá! Eu sou o Guilherme Mazzega 😎
 
+### 🚀 Sobre mim
+<div align="left">
+
+👨‍💻Desenvolvedor Backend e Full Stack com projetos em Node.js, Express, React, Next.js e SQL.
+Crio APIs REST completas com autenticação, deploy e documentação.
+
+</div>
+
+---
+
+
 Desenvolvedor Backend e Full Stack com projetos em Node.js, Express, React, Next.js e SQL.
 Crio APIs REST completas com autenticação, deploy e documentação.
 
@@ -23,14 +34,5 @@ Crio APIs REST completas com autenticação, deploy e documentação.
 
 ---
 
-### 🚀 Sobre mim
-<div align="left">
 
-👨‍💻 Desenvolvedor Full Stack, sempre buscando criar aplicações rápidas, seguras e escaláveis.
-🎓 Estudante de Análise e Desenvolvimento de Sistemas – UNOESTE.
-🚀 Sempre explorando novas tecnologias e evoluindo meus projetos.
-
-</div>
-
----
 
