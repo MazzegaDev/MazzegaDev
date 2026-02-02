@@ -1,9 +1,9 @@
-## 👋 Olá! Eu sou o Guilherme Mazzega 😎
+# 👋 Olá! Eu sou o Guilherme Mazzega 😎
 
-### 🚀 Sobre mim
+##   🚀 Sobre mim
 <div align="left">
 
-👨‍💻Sou Desenvolvedor Backend com foco em JavaScript e TypeScript, atuando no desenvolvimento de aplicações web e APIs REST utilizando Node.js, além de experiência com React.js e Next.js no frontend.
+## 👨‍💻Sou Desenvolvedor Backend com foco em JavaScript e TypeScript, atuando no desenvolvimento de aplicações web e APIs REST utilizando Node.js, além de experiência com React.js e Next.js no frontend.
 Desenvolvo projetos práticos aplicando boas práticas de código, controle de versão com Git, autenticação, organização em camadas e integração com banco de dados.
 
 
