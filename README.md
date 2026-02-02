@@ -3,19 +3,14 @@
 ### 🚀 Sobre mim
 <div align="left">
 
-👨‍💻Desenvolvedor Backend e Full Stack com projetos em Node.js, Express, React, Next.js e SQL.
-Crio APIs REST completas com autenticação e documentação.
+👨‍💻Sou Desenvolvedor Backend com foco em JavaScript e TypeScript, atuando no desenvolvimento de aplicações web e APIs REST utilizando Node.js, além de experiência com React.js e Next.js no frontend.
+Desenvolvo projetos práticos aplicando boas práticas de código, controle de versão com Git, autenticação, organização em camadas e integração com banco de dados.
+
 
 </div>
 
 ---
 
-
-Desenvolvedor Backend e Full Stack com projetos em Node.js, Express, React, Next.js e SQL.
-Crio APIs REST completas com autenticação, deploy e documentação.
-
-
----
 
 ### 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-mazzega-barchi-b0a24a345)
