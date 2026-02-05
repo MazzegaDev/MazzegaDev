@@ -1,33 +1,53 @@
-# 👋 Olá! Eu sou o Guilherme Mazzega 😎
+# 👋 Guilherme Mazzega
 
-##   🚀 Sobre mim
-<div align="left">
+💻 **Backend Developer | Node.js, TypeScript**  
+📍 Brasil
 
-## 👨‍💻Sou Desenvolvedor Backend com foco em JavaScript e TypeScript, atuando no desenvolvimento de aplicações web e APIs REST utilizando Node.js, além de experiência com React.js e Next.js no frontend.
-Desenvolvo projetos práticos aplicando boas práticas de código, controle de versão com Git, autenticação, organização em camadas e integração com banco de dados.
+Sou desenvolvedor backend com foco em **JavaScript, TypeScript**, atuando na criação de **APIs REST**, aplicações web escaláveis e bem estruturadas.  
+Tenho experiência com **Node.js**, **Express**, **Prisma ORM**, **bancos de dados relacionais** e boas práticas como **arquitetura em camadas**, **validações**, **autenticação** e **controle de versão com Git**.
 
+---
 
-</div>
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-mazzega-barchi-b0a24a345)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mazzguilherme@gmail.com)
+
+---
+
+## 🚀 Tecnologias Principais
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Banco de Dados & Ferramentas
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 
-### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-mazzega-barchi-b0a24a345)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazzguilherme@gmail.com)
 
+## 📌 O que você vai encontrar aqui
 
----
-
-
-### 💻 Stack Principal
-<div align="center"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"> </div>
-
----
-## 📚 Atualmente estudando
-<div align="center"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img alt="C#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"> </div>
+- APIs REST com Node.js, TypeScript  
+- Prisma ORM e integração com bancos relacionais  
+- Validações, autenticação e middlewares  
+- Estruturação em camadas (Controller, Service, Repository)  
+- Projetos focados em boas práticas e código limpo  
 
 ---
 
-
-
+⭐ Sinta-se à vontade para explorar meus repositórios!
