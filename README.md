@@ -1,4 +1,4 @@
-# 👋 Guilherme Mazzega
+# 👋 Guilherme Mazzega Barchi
 
 💻 **Backend Developer | Node.js, TypeScript**  
 📍 Brasil
