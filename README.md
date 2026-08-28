@@ -61,7 +61,7 @@ Aqui você pode encontrar alguns dos projetos que desenvolvi para colocar meus c
 
 <p>
     
-  <a href="www.linkedin.com/in/mazzegadev">
+  <a href="https://www.linkedin.com/in/mazzegadev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
