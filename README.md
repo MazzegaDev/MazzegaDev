@@ -1,4 +1,4 @@
-# Olá! Eu sou o Guilherme 👋
+# Olá! Eu sou o Guilherme 
 
 ### Desenvolvedor Web | Backend
 
@@ -32,18 +32,18 @@ Gosto de desenvolver **projetos práticos** para aplicar e aprimorar meus conhec
 
 ---
 
-## 💻 Sobre mim
+## Sobre mim
 
-* 🔹 Foco em **desenvolvimento Backend**
-* 🔹 Experiência com **Node.js, JavaScript, TypeScript e Express**
-* 🔹 Desenvolvimento de **APIs REST**
-* 🔹 Conhecimentos em **SQL e bancos de dados**
-* 🔹 Também trabalho com **React e Tailwind CSS**
-* 🔹 Atualmente aprimorando meus conhecimentos em **Java e desenvolvimento de software**
+*  Foco em **desenvolvimento Backend**
+*  Experiência com **Node.js, JavaScript, TypeScript e Express**
+*  Desenvolvimento de **APIs REST**
+*  Conhecimentos em **SQL e bancos de dados**
+*  Também trabalho com **React e Tailwind CSS**
+*  Atualmente aprimorando meus conhecimentos em **Java e desenvolvimento de software**
 
 ---
 
-## 📌 Projetos
+## Projetos
 
 Aqui você pode encontrar alguns dos projetos que desenvolvi para colocar meus conhecimentos em prática.
 
@@ -52,7 +52,7 @@ Aqui você pode encontrar alguns dos projetos que desenvolvi para colocar meus c
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="left">
   <a href="mailto:mazzguilherme@gmail.com">
